@@ -41,7 +41,7 @@ Transaction confirmations: 6 blocks
 
 Last block with reward: 6930000
 
-Time until last block	65 years, 10 months, 17 days, 12 hours
+Time until last block:	65 years
 
 # How to Compile Rosecoin?
 Use the following instructions to compile a Rosecoin daemon and Rosecoin GUI wallet for Ubuntu Server 18.04.
