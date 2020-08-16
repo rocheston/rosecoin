@@ -99,8 +99,6 @@ Extract the tar file.
 
 > make
 
-The compiling will take about 60 minutes depending on your system hardware.
-
 The compiled Rosecoin GUI wallet named rosecoin-qt can be found in the folder “src/qt” when compiling is finished. 
 Client tools rosecoin-cl, rosecoin-tx and the daemon rosecoind can be found in the folder “src” when compiling is finished.
 
