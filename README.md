@@ -1,6 +1,6 @@
 ![alt text](https://www.rocheston.com/rocheston-resources/rosecoin/files/large_520258.png)
 # Rosecoin
-Rosecoin is an open source, global payment network that is fully decentralized without any central authorities. It is a blockchain based рееr-tо-рееr сrурtосurrеnсу аnd open ѕоurсе software project released under MIT lісеnѕеѕ. 
+Rosecoin is an open source, global payment network developed by Rocheston that is fully decentralized without any central authorities. It is a blockchain based рееr-tо-рееr сrурtосurrеnсу аnd open ѕоurсе software project released under MIT lісеnѕеѕ. 
 The Rosecoin Network aims to process a block every 2.5 minutes, rather than Bitcoin's 10 minutes. This allows Rosecoin to confirm transactions much faster than Bitcoin.
 
 Rosecoin uses scrypt in its proof-of-work algorithm, a sequential memory-hard function requiring asymptotically more memory than an algorithm which is not memory-hard.
