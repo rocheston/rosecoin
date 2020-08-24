@@ -99,8 +99,7 @@ Extract the tar file.
 
 > make
 
-The compiled Rosecoin GUI wallet named rosecoin-qt can be found in the folder “src/qt” when compiling is finished. 
-Client tools rosecoin-cl, rosecoin-tx and the daemon rosecoind can be found in the folder “src” when compiling is finished.
+The compiled Rosecoin GUI wallet named rosecoin-qt can be found in the folder “src/qt”. Client tools rosecoin-cl, rosecoin-tx and the daemon rosecoind can be found in the folder “src”.
 
 # License
 Rosecoin is released under the terms of the MIT license. For more information, see https://opensource.org/licenses/MIT.
