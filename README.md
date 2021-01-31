@@ -6,7 +6,7 @@ The Rosecoin Network aims to process a block every 2.5 minutes, rather than Bitc
 Rosecoin uses scrypt in its proof-of-work algorithm, a sequential memory-hard function requiring asymptotically more memory than an algorithm which is not memory-hard.
 
 
-[<img src="https://www.rocheston.com/rocheston-resources/rosecoin/files/stacks-image-45c0b0d.png" width="250"/>](https://www.rocheston.com/rocheston-resources/rosecoin/files/stacks-image-45c0b0d.png)
+[<img src="https://www.rocheston.com/tools/rosecoin-250x250.png" width="250"/>](https://www.rocheston.com/rocheston-resources/rosecoin/files/stacks-image-45c0b0d.png)
 
 
 
